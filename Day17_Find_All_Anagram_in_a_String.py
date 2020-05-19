@@ -19,6 +19,6 @@ class Solution:
 						i+=1
 						output.append(i)
 					else:
-						flag=False
+						flag=False 
 			i+=1
 		return output
